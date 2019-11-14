@@ -71,7 +71,7 @@ const App = () => {
           </div>
         </div>
       </div>
-      <div style={{ textAlign: "center" }}>
+      {/* <div style={{ textAlign: "center" }}>
         <span>Credits:</span>
         <br></br>
         <small>
@@ -81,7 +81,7 @@ const App = () => {
           </a>{" "}
           from <a href="https://www.flaticon.com">www.flaticon.com</a>
         </small>
-      </div>
+      </div> */}
     </ThemeProvider>
   );
 };

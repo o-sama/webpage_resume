@@ -5,7 +5,7 @@ import "react-tabs/style/react-tabs.css";
 import ExperienceInfo from "./ExperienceInfo";
 
 const ExperienceList = () => (
-  <Tabs className="th">
+  <Tabs>
     <TabList>
       <Tab>Thomson Reuters</Tab>
       <Tab>Flipp</Tab>
